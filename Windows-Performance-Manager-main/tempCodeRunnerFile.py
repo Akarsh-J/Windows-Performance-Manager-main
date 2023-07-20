@@ -1,0 +1,1 @@
+ cpu = ps.cpu_percent()
